@@ -1,4 +1,5 @@
-# THIS README IS FROM ORIGINAL DRIVER TOOLS, IS NOT UPDATED WITH ORIGINAL ONE!!
+# THIS README IS FROM ORIGINAL DRIVER TOOLS, NOT MY WII VERSION!
+## For normal Driver Tools not specifically designed for Driver SF Wii please refer to https://github.com/Fireboyd78/driver-tools
 
 # Driver Tools [![Build status](https://ci.appveyor.com/api/projects/status/serhjoggv2bkrm56?svg=true)](https://ci.appveyor.com/project/Fireboyd78/driver-tools) #
 Various modding tools for Driv3r, Driver: Parallel Lines, and Driver: San Francisco.
